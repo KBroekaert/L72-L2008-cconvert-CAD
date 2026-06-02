@@ -1,4 +1,4 @@
-# L72-L2008-cconvert-CAD
+# CCONVERT.lsp
 CCONVERT.lsp - V0.1
 
 Lisp-programma voor het transformeren van Lambert 72 naar Lambert 2008 en vice versa.
