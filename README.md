@@ -1,5 +1,5 @@
 # L72-L2008-cconvert-CAD
-CCONVERT - V0.1
+CCONVERT.lsp - V0.1
 
 Lisp-programma voor het transformeren van Lambert 72 naar Lambert 2008 en vice versa.
 Roept de cconvert API van het NGI aan om entiteiten samen te verplaatsen, volgens het midden van de bounding box.
